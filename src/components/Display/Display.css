@@ -1,0 +1,14 @@
+.display {
+  background-color: var(--deep-blue);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 5px 0 20px;
+  letter-spacing: 1px;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  word-break: break-all;
+}
